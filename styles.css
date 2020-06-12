@@ -1,0 +1,16 @@
+body {
+  color: red;
+}
+
+.border {
+  border: 1px solid lightblue;
+}
+
+#yellow-background {
+  background-color: rgb(231, 231, 90);
+}
+
+a {
+  font-family: "Balsamiq Sans", cursive;
+  font-size: 0.8em;
+}
